@@ -1,2 +1,2 @@
 # Local-Chat
-Simple client-server chat with AF_UNIX sockets
+Local (AF_UNIX sockets) Client-Server chat developed for a university exam following its specifications.
